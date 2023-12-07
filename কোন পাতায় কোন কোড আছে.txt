@@ -1,4 +1,4 @@
-OOP 1 page:----------
+OOP 1 page:---------
 * Create a Class for use Multiple time Object clone
 * Create a Class for How to use Another Method in Class
 Ex: Teacher || Test 
