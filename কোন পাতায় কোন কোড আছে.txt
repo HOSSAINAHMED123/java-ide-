@@ -1,0 +1,108 @@
+OOP 1 page:----------
+* Create a Class for use Multiple time Object clone
+* Create a Class for How to use Another Method in Class
+Ex: Teacher || Test 
+
+OOP 2 page:---------
+*How to use Constructor
+        1. Special method; No need Inside Call ;
+        2. This is Auto Call Type;
+        3. No need for Return Type / Void Type;
+        4. This is the Object Initialization Method;
+        5. Constructor NAME Followed By CLASS;
+* Two Types of Constructor
+        1. Parameter type
+        2. Default Parameter type
+Ex: Teacher || Test
+
+OOP 3 page:----------
+*Now, How to Create an Overloading Constructor
+    * Overloading is Use Multiple Constructor Create
+    - But Not Use the Same Parameter
+    * Always use different types of parameters But *Constructor
+    - name Always followed by Class
+Ex: Teacher || Test
+
+OOP 4 page:----------
+*How to return type value from Method 
+        1. use parameters
+        2. square type value return
+Ex: Returnvalue || Test
+--------------------------------------------------------------------
+NOTE:  {  Constructor And Method Difference  }
+01. Constructor name Followed By Class name 
+01. Method name not Folled by class name 
+
+02. Constructor no need return type 
+02. Method Both use Available ( Return / default(void) )
+
+03. Constructor no need call , its auto indirectly call by him
+03. Method Always Call by user
+
+04. Constructor Value initial by/for Object
+04. Method output and express behavior
+------------------------------------------------------------------ 
+
+OOP 5 page:----------
+   * Static variable
+   * Non-static variable
+   * Static_Method
+   * Encapsulation
+   * This_Keyword
+
+OOP 6 page: ----------
+   * Encapsulation part-02
+   * Final Keyword
+   * Final Method And Class
+   * Method Overriding 
+   * Polymorphism
+   * Polymorphism practise
+   * Private Encapsulation
+   * Super Class
+   * Super Class Constructor
+   * Super Keyword
+
+OOP 7 page: ----------
+
+   * Abstruct Class And Method
+     01) Can have Abstract And Non- Abstract method possible
+     02) doesnot support multiple Inheritance
+     03) support Static, final,Non-static,Non-final
+   * Abstruct Problem 
+   ---------------------------
+   * Interface
+     01)  Interface is a Collection of abstruct Method.
+        //Note: Non-Abstruct Method Are not possible for interface.
+     02)  Multiple Inheritance Possible for Interface.
+     03)  not crete object 
+     04)  not create Constructor
+     05)  not create instance variable 
+     06)  only support Static And Final Keyword
+    ** Interface Class
+        01) Create for Use interface Keyword. Exm: public interface(class) animal(Class name){}
+    ** Interface Method
+        01) Use Abstruct Keyword Or Not.
+           //Note: When not. Method Assume Automatically Abstruct keyword.
+    ** Interface Variable
+        01) Its Constant . Exm: int a=30.
+           //Note: Assume That its Public Static Final Variable. Exm: public static final int a=30;
+        02) Interface Can Multiple class Inherit possible.
+            Exm: public class C(class name) implements A,B (use double class name) {}
+        03) Interface Always Class (Implemnt) Process Not (Extends).
+        04) When You use Implement Than You MUst habe use All Super Class Method. 
+
+       
+
+GUI page : ---------
+   * Gui Introduction
+
+OOP 8 page:---------
+   * Exception Handling
+     01. Exception Demo
+     02. Error Finding
+     03. Use Try Catch
+     04. Use Exception 
+     05. Use Finally
+
+
+
